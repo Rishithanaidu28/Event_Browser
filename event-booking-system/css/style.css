@@ -1,0 +1,96 @@
+/* Enhanced Styling for Event Booking System */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eef1f7;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Header with only the title */
+header {
+    background: #007bff;
+    color: white;
+    padding: 20px 0;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+/* White container for navigation */
+.nav-container {
+    background: white;
+    padding: 15px;
+    width: 60%;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: -10px; /* Slight overlap */
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 0;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+nav a:hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+/* Main content container */
+.container {
+    width: 70%;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Buttons */
+button {
+    background: #28a745;
+    color: white;
+    padding: 12px 18px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 6px;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #218838;
+}
+
+/* Event list styling */
+.event-list li {
+    background: #ffffff;
+    margin: 15px 0;
+    padding: 18px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.event-list li:hover {
+    transform: scale(1.02);
+}
+
