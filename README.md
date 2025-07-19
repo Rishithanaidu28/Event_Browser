@@ -31,7 +31,7 @@ Setup Instructions
 
 3.Configure Database Connection
 
-4.Start the Local Server Run XAMPP (or any local server) and start Apache & MySQL. Open your browser and go to: http://localhost/event_booking/
+4.Start the Local Server Run XAMPP (or any local server) and start Apache & MySQL. Open your browser and go to: http://localhost/event-booking-system/
 
 Security Features
 Password Hashing using password_hash() for security SQL Injection Prevention with prepared statements Session Handling for authentication
