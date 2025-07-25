@@ -39,3 +39,6 @@ Password Hashing using password_hash() for security SQL Injection Prevention wit
 
 
 ![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/f614e1f7c2258b62fc53deb1bb010545220167cb/Event_booking_loginPage.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/e9b81a17cf3fbca48a8277f2928a4d87bc029949/admin_login.jpeg)
+
