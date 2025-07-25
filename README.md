@@ -35,3 +35,7 @@ Setup Instructions
 
 Security Features
 Password Hashing using password_hash() for security SQL Injection Prevention with prepared statements Session Handling for authentication
+
+
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/f614e1f7c2258b62fc53deb1bb010545220167cb/Event_booking_loginPage.jpeg)
