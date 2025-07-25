@@ -59,6 +59,19 @@ Password Hashing using password_hash() for security SQL Injection Prevention wit
 ![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/bookingCancel.jpeg)
 
 
+Event_Browser Database Tables 
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/9022e5e54494fc20a6b363bae88cfc51e6649512/database.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/9022e5e54494fc20a6b363bae88cfc51e6649512/events.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/9022e5e54494fc20a6b363bae88cfc51e6649512/users.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/9022e5e54494fc20a6b363bae88cfc51e6649512/bookings.jpeg)
+
+
+
+
 
 
 
