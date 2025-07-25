@@ -42,3 +42,25 @@ Password Hashing using password_hash() for security SQL Injection Prevention wit
 
 ![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/e9b81a17cf3fbca48a8277f2928a4d87bc029949/admin_login.jpeg)
 
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/admin_dashboard.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/create_event.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/edit_event.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/ViewBookings.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/user_Login.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/User_dashboard.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/bookingconform.jpeg)
+
+![image alt](https://github.com/Rishithanaidu28/Event_Browser/blob/2cd5f6e8825ab3ea5299df117c127b89302649ed/bookingCancel.jpeg)
+
+
+
+
+
+
+
